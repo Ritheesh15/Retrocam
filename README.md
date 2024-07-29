@@ -1,6 +1,6 @@
 **Retrocam Logo:**
 ![RetroCam](https://github.com/user-attachments/assets/4813d9e5-89c2-466d-9030-626ee5c6c742)
-<img src="C:\Users\rithe\Downloads"  width="50" height="50"/>
+<img src="C:\Users\rithe\Downloads" width="10px" height="10px"/>
 
 
 
