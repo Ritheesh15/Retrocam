@@ -33,3 +33,5 @@ The app was deployed to a mobile phone using wireless debugging. This method all
 3. **Connect to the Same Network:** Ensure that both your development machine and Android device are connected to the same Wi-Fi network.
 4. **Pair Device:** In Android Studio, go to `View` > `Tool Windows
 
+## Distribution
+A signed APK of the camera app was generated, enabling installation on other Android devices. This ensures that the app can be securely distributed and installed without modification.
